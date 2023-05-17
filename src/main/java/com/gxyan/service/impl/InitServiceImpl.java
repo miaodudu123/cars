@@ -19,10 +19,7 @@ import org.springframework.util.CollectionUtils;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author gxyan
- * @date 2019/1/2 21:22
- */
+
 @Slf4j
 @Service
 public class InitServiceImpl implements IInitService {

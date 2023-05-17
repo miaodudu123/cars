@@ -24,10 +24,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.UUID;
 
-/**
- * @author gxyan
- * @date 2019/1/3 13:05
- */
+
 @Slf4j
 @Service
 public class OrderServiceImpl implements IOrderService {

@@ -13,10 +13,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author gxyan
- * @date 2019/1/13 9:19
- */
+
 @Slf4j
 @Service
 public class ChartServiceImpl implements IChartService {

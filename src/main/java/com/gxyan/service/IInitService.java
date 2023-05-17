@@ -6,10 +6,6 @@ import com.gxyan.vo.SeriesTree;
 
 import java.util.List;
 
-/**
- * @author gxyan
- * @date 2019/1/3 12:56
- */
 public interface IInitService {
 
     /**

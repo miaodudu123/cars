@@ -16,10 +16,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author gxyan
- * @date 2019/1/6 10:07
- */
+
 @Slf4j
 @Service
 public class CustomerServiceImpl implements ICustomerService {
